@@ -1,0 +1,61 @@
+customer_id,customer_name,customer_type,country,region_id,join_date
+1,NorthStar Air Systems,Airline,United States,1,2022-03-15
+2,BlueHorizon Airlines,Airline,United States,1,2021-08-22
+3,MapleWing Aviation,Airline,Canada,1,2023-01-10
+4,Pacific Crest Airways,Airline,United States,1,2020-06-18
+5,Atlantic Sky Airlines,Airline,United States,1,2022-11-05
+6,FrontierLink Air,Airline,Canada,1,2023-07-14
+7,SunWest Aviation,Airline,United States,1,2021-04-28
+8,AeroServe Maintenance,MRO Provider,United States,1,2020-09-12
+9,NorthTech MRO Services,MRO Provider,Canada,1,2022-02-19
+10,Pacific Aero Maintenance,MRO Provider,United States,1,2021-12-03
+11,Maple Aviation Services,MRO Provider,Canada,1,2023-05-21
+12,NorthAxis Aircraft Manufacturing,Aircraft Manufacturer,United States,1,2020-01-17
+13,Pacific AeroWorks,Aircraft Manufacturer,United States,1,2021-09-08
+14,Maple Aerospace Industries,Aircraft Manufacturer,Canada,1,2022-06-30
+15,EuroSky Airlines,Airline,Germany,2,2021-02-11
+16,Alpine Airways,Airline,Germany,2,2022-07-09
+17,Atlantic Europa Airlines,Airline,France,2,2020-05-16
+18,Iberia Horizon Air,Airline,Spain,2,2023-03-24
+19,Britannia Connect Airways,Airline,United Kingdom,2,2021-10-13
+20,Nordic Wings Aviation,Airline,Germany,2,2022-12-01
+21,Mediterranean AirLink,Airline,Spain,2,2023-08-17
+22,EuroTech MRO,MRO Provider,Germany,2,2020-04-06
+23,Continental Aviation Services,MRO Provider,France,2,2021-06-25
+24,Alpine Aero Maintenance,MRO Provider,Germany,2,2022-09-15
+25,Britannia Aircraft Services,MRO Provider,United Kingdom,2,2023-02-08
+26,EuroFrame Aerospace,Aircraft Manufacturer,Germany,2,2020-11-19
+27,Atlantic Aero Manufacturing,Aircraft Manufacturer,France,2,2021-05-27
+28,Iberian Aerospace Systems,Aircraft Manufacturer,Spain,2,2022-10-04
+29,IndoPacific Airlines,Airline,India,3,2021-01-21
+30,Sakura Sky Airways,Airline,Japan,3,2020-07-12
+31,Coral Pacific Air,Airline,Australia,3,2022-04-09
+32,LionStar Aviation,Airline,Singapore,3,2023-06-18
+33,Southern Cross Airways,Airline,Australia,3,2021-11-30
+34,AsiaConnect Airlines,Airline,India,3,2022-08-05
+35,Pacific Maintenance Group,MRO Provider,India,3,2020-03-17
+36,Sakura Aero Services,MRO Provider,Japan,3,2021-07-28
+37,AsiaTech MRO,MRO Provider,Singapore,3,2022-05-14
+38,Southern Aero Maintenance,MRO Provider,Australia,3,2023-01-26
+39,Pacific Aero Manufacturing,Aircraft Manufacturer,Japan,3,2020-10-09
+40,IndoAero Systems,Aircraft Manufacturer,India,3,2022-03-11
+41,Gulf Horizon Airlines,Airline,United Arab Emirates,4,2021-04-15
+42,DesertLink Airways,Airline,Saudi Arabia,4,2022-01-20
+43,QatarSky Aviation,Airline,Qatar,4,2020-08-08
+44,Arabian Connect Air,Airline,United Arab Emirates,4,2023-05-07
+45,GulfTech Aviation Services,MRO Provider,United Arab Emirates,4,2021-03-19
+46,Desert Aero Maintenance,MRO Provider,Saudi Arabia,4,2022-06-11
+47,MiddleEast Aviation Support,MRO Provider,Qatar,4,2023-09-02
+48,Gulf Aerospace Manufacturing,Aircraft Manufacturer,United Arab Emirates,4,2020-12-14
+49,BrazilConnect Airlines,Airline,Brazil,5,2021-02-27
+50,Andes Horizon Airways,Airline,Mexico,5,2022-07-16
+51,LatinSky Aviation,Airline,Brazil,5,2023-04-03
+52,Brazil Aero Services,MRO Provider,Brazil,5,2020-09-24
+53,Latin Aviation Maintenance,MRO Provider,Mexico,5,2022-11-08
+54,Andes Aerospace Manufacturing,Aircraft Manufacturer,Mexico,5,2021-06-29
+55,SunAfrica Airways,Airline,South Africa,6,2021-05-12
+56,Atlas Horizon Air,Airline,Morocco,6,2022-02-18
+57,Continental Africa Airlines,Airline,South Africa,6,2023-07-01
+58,Africa Aero Maintenance,MRO Provider,South Africa,6,2020-10-22
+59,Atlas Aerospace Manufacturing,Aircraft Manufacturer,Morocco,6,2021-08-14
+60,Africa Aviation Industries,Aircraft Manufacturer,South Africa,6,2022-04-26

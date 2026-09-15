@@ -1,0 +1,31 @@
+product_id,product_name,product_category,standard_price,production_lead_days
+1,AeroNav Flight Management Unit,Avionics Systems,85000.00,60
+2,SkyLink Communication Control Unit,Avionics Systems,62000.00,50
+3,Horizon Weather Radar Module,Avionics Systems,48000.00,45
+4,AeroSense Air Data Computer,Avionics Systems,38000.00,40
+5,FlightGuard Terrain Awareness System,Avionics Systems,72000.00,55
+6,NexaVision Cockpit Display Unit,Avionics Systems,95000.00,65
+7,AeroFlex Wing Flap Assembly,Aircraft Components,42000.00,55
+8,NexaGear Landing Gear Actuator,Aircraft Components,68000.00,70
+9,SkyFrame Structural Support Panel,Aircraft Components,24000.00,40
+10,AeroSeal Hydraulic Valve Assembly,Aircraft Components,18500.00,35
+11,FlightCore Control Surface Actuator,Aircraft Components,36000.00,50
+12,NexaLock Cargo Door Mechanism,Aircraft Components,29000.00,45
+13,TurbineCore Compressor Blade Set,Engine Components,145000.00,90
+14,AeroThrust Fuel Control Unit,Engine Components,118000.00,85
+15,NexaTurbine Nozzle Assembly,Engine Components,175000.00,110
+16,PowerFlow Combustion Liner,Engine Components,132000.00,95
+17,AeroDrive Turbine Shaft Assembly,Engine Components,210000.00,120
+18,EngineGuard Thermal Sensor Module,Engine Components,76000.00,60
+19,AeroPower Distribution Panel,Electrical Systems,32000.00,40
+20,NexaVolt Power Control Unit,Electrical Systems,28000.00,35
+21,SkyWire Electrical Harness System,Electrical Systems,15000.00,25
+22,FlightCell Backup Battery Unit,Electrical Systems,12500.00,30
+23,AeroSwitch Circuit Protection Module,Electrical Systems,9800.00,20
+24,PowerLink Generator Control Unit,Electrical Systems,46000.00,50
+25,NexaSeat Passenger Seat Module,Cabin Systems,8500.00,30
+26,AeroCabin LED Lighting System,Cabin Systems,6200.00,20
+27,SkyComfort Cabin Air Vent Unit,Cabin Systems,4800.00,18
+28,FlightPanel Interior Control Module,Cabin Systems,7500.00,25
+29,AeroStorage Overhead Bin Assembly,Cabin Systems,11000.00,35
+30,NexaSound Cabin Communication Panel,Cabin Systems,14500.00,30
