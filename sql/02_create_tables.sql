@@ -11,8 +11,7 @@ USE aerospace_analytics;
 
 CREATE TABLE regions (
     region_id INT AUTO_INCREMENT PRIMARY KEY,
-    region_name VARCHAR(100) NOT NULL,
-    country VARCHAR(100) NOT NULL
+    region_name VARCHAR(100) NOT NULL
 );
 
 -- ============================================
@@ -23,6 +22,7 @@ CREATE TABLE customers (
     customer_id INT AUTO_INCREMENT PRIMARY KEY,
     customer_name VARCHAR(150) NOT NULL,
     customer_type VARCHAR(50) NOT NULL,
+    country VARCHAR(100) NOT NULL,
     region_id INT NOT NULL,
     join_date DATE NOT NULL,
 
@@ -139,8 +139,11 @@ CREATE TABLE shipments (
     CONSTRAINT chk_shipment_status
         CHECK (
             shipment_status IN (
+                'Processing',
+                'Shipped',
                 'In Transit',
-                'Delivered'
+                'Delivered',
+                'Cancelled'
             )
         ),
 
